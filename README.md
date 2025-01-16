@@ -11,3 +11,5 @@ git checkout <имя ветки>
 git branch <имя ветки> - создать ветку
 git branch -d <имя ветки> - удалить ветку
 git merge <имя ветки> - объединить вветки
+
+git merge new
